@@ -3,7 +3,7 @@ import requests
 from datetime import datetime, timedelta
 
 # YouTube API Key
-API_KEY = "YOUR_YOUR_API_KEY_HERE"  # Replace with your actual API key
+API_KEY = "AIzaSyDnEAoBQYpAnbrO4M_vd90nlWdmr9rk9CM"  
 Youtube_URL = "https://www.googleapis.com/youtube/v3/search"
 YOUTUBE_VIDEO_URL = "https://www.googleapis.com/youtube/v3/videos"
 YOUTUBE_CHANNEL_URL = "https://www.googleapis.com/youtube/v3/channels"
